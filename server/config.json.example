@@ -1,0 +1,7 @@
+{
+	"server_addr": "127.0.0.1:3000",
+	"image_width": 20,
+	"image_height": 20,
+	"grid_offset_x": 0,
+	"grid_offset_y": 0
+}

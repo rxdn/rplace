@@ -1,4 +1,6 @@
 client/config.json
+server/config.json
+server/image.png
 *.iml
 /.idea
 target/
